@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ybin108)](https://solved.ac/ybin108)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ubin108)](https://github.com/Ubin108/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ubin108)](https://github.com/Ubin108/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ubin108)](https://github.com/Ubin108/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ubin108)](https://github.com/Ubin108/github-readme-stats)
