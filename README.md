@@ -9,4 +9,4 @@
 - 🌱 I’m currently learning Back-end skills and Machine Learing.
 
 #### 🎖️ Problem Solving
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ybin108)](https://solved.ac/ybin108)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ybin108)](https://solved.ac/ybin108/)
