@@ -6,7 +6,7 @@
 
 ## 💬 About me
 - 🏛️ SKKU Computer Sience 18.
-- 🌱 I’m currently learning Back-end skills and Machine Learing.
+- 🌱 I’m currently learning Back-end skills and Machine Learning.
 
 #### 📚 Tech Stack
 <p>
