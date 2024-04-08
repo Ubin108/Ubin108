@@ -6,7 +6,7 @@
 
 ## 💬 About me
 - 🏛️ SKKU Computer Sience 18.
-- 🌱 I’m currently learning in the field of Computer Vision.
+- 🌱 I’m currently studying in the field of Computer Vision.
 
 #### 📚 Tech Stack
 <p>
