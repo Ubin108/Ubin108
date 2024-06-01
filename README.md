@@ -5,7 +5,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUbin108%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 💬 About me
-- 🏛️ SKKU Computer Sience 18.
+- 🏛️ SKKU Computer Science 18.
 - 🌱 I’m currently studying in the field of Computer Vision.
 
 #### 📚 Tech Stack
