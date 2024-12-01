@@ -9,5 +9,5 @@
 - 🌱 Computer Vision Researcher.
 
 #### 🎖️ Problem Solving
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj={ybin108})](https://solved.ac/{ybin108})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ybin108)](https://solved.ac/ybin108)
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ybin108)](https://solved.ac/ybin108)-->
