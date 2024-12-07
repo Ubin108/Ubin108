@@ -5,4 +5,4 @@
 <!--[![Tistory Badge](https://img.shields.io/badge/PS%20Blog-yellow?style=flat&logoColor=white)](https://bingorithm.tistory.com/)-->
 
 - BS: Computer Science and Engineering / MS: Artificial Intelligence
-- Graduate Student in <a href="https://silverbottlep.github.io/pair.html" target="_blank">VSC Lab</a>.
+- Graduate Student in <a href="https://silverbottlep.github.io/pair.html" target="_blank">Visual and Scientific Computing Lab</a>.
